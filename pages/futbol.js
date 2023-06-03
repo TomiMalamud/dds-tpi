@@ -1,5 +1,6 @@
 import MostarBaseDeDatos from './mostrar-db';
 import Link from 'next/link';
+// test
 
 export default function BaseDatos({ jugadores, ligas, equipos, copas, estadios }) {
   return (
